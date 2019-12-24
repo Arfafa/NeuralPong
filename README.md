@@ -31,5 +31,5 @@ e a geração indica quantas vezes a rede neural foi
 apresentada ao conjunto de dados presentes em data.csv
 
 ## Fontes
-[IA Aprende A Jogar "Ping-Pong" Usando Rede Neural](https://www.youtube.com/watch?v=ETn61j8kIaU)
-[Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [IA Aprende A Jogar "Ping-Pong" Usando Rede Neural](https://www.youtube.com/watch?v=ETn61j8kIaU)
+- [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
