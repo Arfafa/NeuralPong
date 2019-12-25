@@ -1,5 +1,5 @@
 # Projeto
-Projeto desenvolvido com o intutio de criar uma rede neural 
+Projeto desenvolvido com o intuito de criar uma rede neural 
 capaz de jogar uma versão simplificada do jogo Pong
 
 ## Como Funciona?
